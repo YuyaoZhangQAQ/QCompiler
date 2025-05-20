@@ -165,3 +165,26 @@ processor = RecursiveDescentProcessor(
 - 模型路径（同上）  
 
 **评估代码即将发布**。
+
+## 📄 引用
+
+如果您觉得本工作有帮助，请引用我们的论文：
+```bibtex
+@misc{zhang2025neurosymbolicquerycompiler,
+      title={Neuro-Symbolic Query Compiler}, 
+      author={Yuyao Zhang and Zhicheng Dou and Xiaoxi Li and Jiajie Jin and Yongkang Wu and Zhonghua Li and Qi Ye and Ji-Rong Wen},
+      year={2025},
+      eprint={2505.11932},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2505.11932}, 
+}
+```
+
+## 📄 许可证
+
+本项目基于 [MIT 许可证](LICENSE) 发布。
+
+## 📞 联系方式
+
+请通过 [2020201710@ruc.edu.cn](2020201710@ruc.edu.cn) 联系我们。
